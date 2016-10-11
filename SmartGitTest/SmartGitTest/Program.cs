@@ -13,8 +13,12 @@ namespace SmartGitTest
             //This is the initial project.
 
             Console.WriteLine("Hello, World!");
-            //Added a new comment too
-            //Awesome!
+
+            var input = Console.ReadLine();
+
+            Console.WriteLine("You wrote: " + input);
+
+
         }
     }
 }
