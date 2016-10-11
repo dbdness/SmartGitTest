@@ -18,6 +18,17 @@ namespace SmartGitTest
 
             Console.WriteLine("You wrote: " + input);
 
+            Console.WriteLine("Now write a calculation!");
+
+            input = Console.ReadLine();
+
+            int first = int.Parse(input.Split('+').First());
+            int last = int.Parse(input.Split('+').Last());
+            int sum = first + last;
+
+            Console.WriteLine("The result is: " + sum);
+
+
 
         }
     }
