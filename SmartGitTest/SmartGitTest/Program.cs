@@ -28,6 +28,8 @@ namespace SmartGitTest
 
             Console.WriteLine("The result is: " + sum);
 
+            //Comment
+
 
 
         }
