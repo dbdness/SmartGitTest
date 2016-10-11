@@ -10,6 +10,9 @@ namespace SmartGitTest
     {
         static void Main(string[] args)
         {
+            //Greeting
+            Console.WriteLine("WELCOME!");
+
             //This is the initial project.
 
             Console.WriteLine("Hello, World!");
