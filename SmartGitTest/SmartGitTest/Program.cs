@@ -18,7 +18,10 @@ namespace SmartGitTest
 
             Console.WriteLine("You wrote: " + input);
 
-
+            //I have now played around!
+            //This is another awesome feature I just added
+            
+            
         }
     }
 }
