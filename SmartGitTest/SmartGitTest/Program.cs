@@ -21,6 +21,7 @@ namespace SmartGitTest
 
             Console.WriteLine("You wrote: " + input);
 
+<<<<<<< HEAD
             Console.WriteLine("Now write a calculation!");
 
             input = Console.ReadLine();
@@ -35,6 +36,12 @@ namespace SmartGitTest
 
 
 
+=======
+            //I have now played around!
+            //This is another awesome feature I just added
+            
+            
+>>>>>>> Work_from_default
         }
     }
 }
