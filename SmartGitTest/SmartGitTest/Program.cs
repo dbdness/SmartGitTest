@@ -11,6 +11,10 @@ namespace SmartGitTest
         static void Main(string[] args)
         {
             //This is the initial project.
+
+            Console.WriteLine("Hello, World!");
+            //Added a new comment too
+            //Awesome!
         }
     }
 }
